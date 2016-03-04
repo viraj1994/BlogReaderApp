@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">BlogReaderApp</string>
+
+    <string name="title">SORRY!</string>
+    <string name="err_message">TRY AGAIN</string>
+    <string name="no_items">nothing to display</string>
+
+    <string-array name="android_names">
+        <item>Android beta</item>
+        <item>Android 1.0</item>
+        <item>Android 1.1</item>
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>GingerBread</item>
+        <item>HoneyComb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Beans</item>
+        <item>Lollipop</item>
+        <item>Marshmallow</item>
+    </string-array>
+    <string name="title_activity_blog_web_view">BlogWebViewActivity</string>
+    <string name="menu_share">Share</string>
+    <string name="share_chooser_title">SELECT ANY 1</string>
+
+
+</resources>
